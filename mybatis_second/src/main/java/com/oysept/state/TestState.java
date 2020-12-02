@@ -10,10 +10,5 @@ public class TestState {
         context.request();
 
         System.out.println("bbbbb");
-        System.out.println("bbbbb");
-        System.out.println("bbbbb");
-        System.out.println("bbbbb");
-        System.out.println("bbbbb");
-        System.out.println("bbbbb");
     }
 }
